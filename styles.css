@@ -1,2 +1,5 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	jutify-content:space-between;
+	flex-wrap:wrap;
+}
