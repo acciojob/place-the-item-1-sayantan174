@@ -1,5 +1,5 @@
 .holder{
 	display:flex;
-	jutify-content:space-between;
+	justify-content:space-between;
 	flex-wrap:wrap;
 }
